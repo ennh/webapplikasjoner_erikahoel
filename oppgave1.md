@@ -12,3 +12,6 @@
 <li>As a participant, I want to see my score, so that I know if I passed the test, or failed the test.</li>
 </ol>
 
+## Oppgave 2 - Flowchart
+
+![Flowchart fra oppgave 2](https://gyazo.com/f875d811ab696e580ee6af7b3655683d.png)
