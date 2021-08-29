@@ -7,7 +7,7 @@
 
 <li>As a participant, I want to have a user profile, so that I can download my approved certificates.</li>
 
-<li>As an administrator, I want to have four multiple choices where only one is correct, so that so that the participants has to choose one.</li>
+<li>As an administrator, I want to have four multiple choices where only one is correct, so that the participants has to choose one answer.</li>
 
 <li>As a participant, I want to see my score, so that I know if I passed the test, or failed the test.</li>
 </ol>
