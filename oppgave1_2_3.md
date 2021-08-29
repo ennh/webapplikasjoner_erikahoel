@@ -16,18 +16,18 @@
 
 Flowchart for deltager:
 
-![Flowchart fra oppgave 2](https://gyazo.com/f875d811ab696e580ee6af7b3655683d.png)
+![Flowchart fra oppgave 2](https://gyazo.com/7e094460ac6ecab939392db080c25f0c.png)
 
 ## Oppgave 3 - Wireframes
 
-Wireframe for å lage konto/logge inn:
+Wireframe for å lage admin konto/logge inn:
 
-![Wireframe side 1](https://gyazo.com/597409ddaf32b745d7e00ac9e726b673.png)
+![Wireframe side 1](https://gyazo.com/a0a6e94d478c9e71a04c2fc097fa8ada.png)
 
-Wireframe for å lage/redigere eksamener:
+Wireframe for å lage/redigere eksamener: (poenget er at når admin trykker på "Create new exams, skal "Creating new exams" poppe opp på samme side)
 
-![Wireframe side 2](https://gyazo.com/483aed3a0e7176db6449db6a2c3b4cf6.png)
+![Wireframe side 2](https://gyazo.com/aacce5bcfd963b22b47c8d3166c9147f.png)
 
-Wireframe for oversikt over eksamener:
+Wireframe for oversikt over eksamener: (øverst: bilde, tittel og kort beskrivelse til hver eksamen og antallet personer som har besvart eksamenen. nederst: når eksamen ble besvart, hvem som besvarte og om eksamen var godkjent)
 
-![Wireframe side 3](https://gyazo.com/60c357f78dfb548d7a3ec5a685050f79.png)
+![Wireframe side 3](https://gyazo.com/0a120a6879961300bee78a31b43bd156.png)
