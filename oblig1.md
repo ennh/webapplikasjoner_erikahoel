@@ -40,4 +40,4 @@ Trello tavlen med tre User Stories knyttet til en epic:
 
 Trello kort som viser sjekklisten og forfallsdatoen:
 
-![Trello kort](https://gyazo.com/45bfd98a2d454a282050abe34ad75f06.png)
+![Trello kort](https://gyazo.com/ca5f90426cfdd442ab2c6c2798970bac.png)
