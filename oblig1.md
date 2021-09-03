@@ -31,3 +31,13 @@ Wireframe for å lage/redigere eksamener: (poenget er at når admin trykker på 
 Wireframe for oversikt over eksamener: (øverst: bilde, tittel og kort beskrivelse til hver eksamen og antallet personer som har besvart eksamenen. nederst: når eksamen ble besvart, hvem som besvarte og om eksamen var godkjent)
 
 ![Wireframe side 3](https://gyazo.com/0a120a6879961300bee78a31b43bd156.png)
+
+## Oppgave 6 - Trello
+
+Trello tavlen med tre User Stories knyttet til en epic:
+
+![Trello kortene](https://gyazo.com/fc19e40902ac70ba848e484e30e73e25.png)
+
+Trello kort som viser sjekklisten og forfallsdatoen:
+
+![Trello kort](https://gyazo.com/45bfd98a2d454a282050abe34ad75f06.png)
