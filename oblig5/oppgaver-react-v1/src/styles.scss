@@ -1,10 +1,30 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
-
+  text-align: left;
 }
 
 .flex {
   display: flex;
-  border: 2px solid green;
+  gap: 10px;
+  border: 1px solid;
+  background-color: rgb(180, 241, 238);
+  padding: 1px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+button:hover{
+  background-color: rgb(255, 171, 162);
+}
+
+form {
+  margin-top: 30px;
+  border: 1px solid;
+  padding: 10px;
+}
+
+button {
+  margin-left: 10px;
 }
