@@ -1,0 +1,92 @@
+
+[
+
+    {
+      "title": "Hva står MSW for?",
+      "answers": [
+        { 
+          "answer": "Master of Social Work" 
+        },
+        {
+          "answer": "Microsoft Word"
+        },
+        {
+          "answer": "Main Seawater System"
+        },
+        {
+          "answer": "Mock Service Worker",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Til tross for at API kall er det som de fleste gjerne ønsker og mocke er det ikke rett frem og løse i JEST. Derfor vil vi bruke et bibliotek som heter Mock Service Worker (MSW)."
+      }
+    },
+
+    {
+      "title": "Hva er JEST?",
+      "answers": [
+        { 
+          "answer": "Et bibliotek for React komponenter" 
+        },
+        {
+          "answer": "Et rammeverk for React komponenter"
+        },
+        {
+          "answer": "Et bibliotek for testing"
+        },
+        {
+          "answer": "Et rammeverk for testing",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "JEST er et rammeverk for testing."
+      }
+    },
+
+    {
+      "title": "Hva er de to hovedformene for asynkronitet i JS?",
+      "answers": [
+        { 
+          "answer": "Fakes og Spies" 
+        },
+        {
+          "answer": "Axios og Fetch"
+        },
+        {
+          "answer": "API og JSON"
+        },
+        {
+          "answer": "Callbacks og Promises",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "I Javascript er jo de to hovedformene for asynkronitet, Callbacks og Promises."
+      }
+    },
+    
+    {
+      "title": "Når man har et eller flere elementer man ønsker å kjøre validering mot, så har react-testing-library inkludert noen matchers for å teste DOM elementer. Hva er de vanligste?",
+      "answers": [
+        { 
+          "answer": "toHaveTextContent" 
+        },
+        {
+          "answer": "toHaveValue"
+        },
+        {
+          "answer": "toBeChecked"
+        },
+        {
+          "answer": "Alle de 3 nevnte er riktig",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Alle 3 er riktig. De som er mest brukt er toHaveTextContent, toHaveValue og toBeChecked."
+      }
+    }
+
+]
