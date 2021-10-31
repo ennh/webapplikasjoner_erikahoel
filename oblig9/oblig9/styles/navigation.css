@@ -1,0 +1,43 @@
+.navigation {
+    background-color: #f9f9f9;
+    margin-bottom: 1rem;
+    border-style: double;
+  }
+
+  ul {
+    margin: 0;
+      padding: 0.5rem;
+      display: flex;
+      gap: 1.5rem;
+      list-style: none;
+      justify-content: center;
+  }
+  
+  .first {
+    color: rgb(255, 103, 103);
+  }
+
+  .first:hover { 
+    color: rgb(143, 143, 248);
+  }
+
+  #oblig9 {
+    text-align: center;
+  }
+
+  h2 {
+    color:rgb(3, 126, 68)
+  }
+
+  #json {
+    padding-top: 20px;
+  }
+
+  #preview {
+    padding-top: 10px;
+  }
+
+  button {
+    margin-left: 5px;
+  }
+  
